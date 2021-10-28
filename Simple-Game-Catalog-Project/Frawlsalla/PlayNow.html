@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play Now</title>
+    <link rel="stylesheet" href="Styles.css">
+    <script src="validation.js"></script>
+</head>
+<body>
+    <header>
+        <img class="logo" src="Images/logo.png">
+        <div class="dd-menu">
+            <div class="dropdown">
+                <div class="menu">
+                    <img class="hamburger" src="Images/navigationbar.png">
+                    <button class="dropbtn">MENU</button>
+                </div>
+                <div class="dropdown-content">
+                  <a href="Home.html">Home</a>
+                  <a href="Screenshots.html">Screenshots</a>
+                  <a href="Events.html">Events</a>
+                  <a href="Characters.html">Characters</a>
+                  <a href="PlayNow.html">Play Now</a>
+                </div>
+              </div>
+        </div>
+    </header>
+    <div class="content">
+        <div class="content-play">
+            <div class="regTitlebox">
+                <p>Register Now
+                    <br>and Join the FUN</p>
+            </div>
+            <div class="registerbox">
+                <div class="regLabel">
+                    <label for="">Name :</label>
+                    <label for="">Email :</label>
+                    <label for="">Password :</label>
+                    <label for="">Gender :</label>
+                    <label for="">Do you agree to the 
+                        <a href="https://legal.ubi.com/termsofuse/en-US" target="_blank">Terms and Conditions</a>
+                    </label>
+                </div>
+                <div class="regInput">
+                    <input class="regtext" type="text" id="txtName">
+                    <input class="regtext" type="email" id="txtEmail">
+                    <input class="regtext" type="password" id="txtPassword">
+                    <div class="regRadio">
+                            <input type="radio" name="rbGender" id="rbMale" value="Male">Male
+                            <input type="radio" name="rbGender" id="rbFemale" value="Female">Female
+                    </div>
+                    <div class="regTC">
+                        <input type="checkbox" id="cbAgree">Yes, I agree
+                    </div>
+                </div>
+            </div>
+            <button onclick="getResult()" id="btnSubmit">Register</button>
+        </div>
+    </div>
+    <footer>
+        © 2021 Frawsalla. All Rights Reserved.
+    </footer>
+</body>
+</html>

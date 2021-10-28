@@ -1,0 +1,437 @@
+/* header */
+body {
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+header {
+    background-color: #0e3e5b;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header, .footer{
+    width: 100%;
+}
+
+.logo {
+    width: 150px;
+    height: 150px;
+    padding-left: 10vw;
+}
+
+.hamburger {
+    width: 30px;
+    height: 45px;
+}
+
+.dropdown {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: space-around;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    background-color: #0e3e5b;
+}
+
+.dropdown-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.dd-menu {
+    padding-right: 10vw;
+}
+
+.dropbtn {
+  background-color: #0e3e5b;
+  font-size: 20px;
+  border: none;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #0e3e5b;
+  width: 150px;
+}
+
+.dropdown-content a {
+  text-decoration: none;
+  display: block;
+  color: black;
+  padding: 3% 3%;
+  font-size: 24px;
+}
+
+.dropdown-content a:hover {background-color: #a4bae9b6}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* content */
+.content {
+    width: 100%;
+}
+
+
+    /* content-home */
+.second-event {
+    width: 1024px;
+    height: 576px;
+}
+
+.carousel {
+    margin: auto;
+}
+
+.carousel h1 {
+    text-align: center;
+}
+
+.slider-inner img {
+    display: none;
+}
+
+.slider-inner img.active {
+    display: inline-block;
+}
+
+.slider-outer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.prev-arrow, .next-arrow {
+    cursor: pointer;
+    height: 50px;
+    width: 50px;
+}
+
+.testimonial {
+    height: 500px;
+    width: 750px;
+    padding-left: 6vw;
+}
+
+.btm-info {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+
+.btm-text {
+    padding-right: 6vw;
+}
+
+.btm-text h1 {
+    text-align: center;
+}
+
+
+    /* content-screenshot */
+.gambar {
+    float: left;
+    width: 30%;
+    padding: 5px;
+    }
+    
+
+.contenerss::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.contenerss {
+    display: flex;
+    padding-top: 3vh;
+    padding-inline: 5vw;
+    padding-bottom: 20px;
+    justify-content: space-between;
+}
+
+.gambar img{
+    border: solid;
+    border-width: 2px;
+    border-color:#0e3e5b;
+}
+.textss{
+    padding-inline: 5vw;
+    text-align: justify;
+}
+   
+
+    /* content-event */
+.event {
+    text-align: center;
+    align-items: center;
+    display: table;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    width: 1%;
+    padding-top: 2%;
+    padding-left: 20px;
+} 
+
+
+    /* content-character */
+.content-char{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-inline: 5%;
+}
+
+.char-box{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+}
+
+.char-box img{
+    width: 200px;
+    height: 400px;
+}
+
+.char-border{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 210px;
+    height: 410px;
+    background-color: #0e3e5b;
+}
+
+.charname{
+    height: 30px;
+    font-weight: bold;
+}
+
+#aster{
+    color:#2b986d;
+}
+#brom{
+    color:#401a1c;
+}
+#chris{
+    color:#f9890f;
+}
+
+
+    /* content-playnow */
+.content-play{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 80vh;
+    margin-top: 4vh;
+    color: #0e3e5b;
+}
+
+.regTitlebox{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 80vw;
+    height: max-content;
+}
+
+.regTitlebox p{
+    font-size: 6vw;
+    font-weight: bold;
+    color: #1ca8d3;
+    margin-top: 0;
+    margin-bottom: 2vw;
+}
+
+.registerbox{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5vh;
+}
+
+.regLabel{
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    margin-left: 4vw;
+}
+
+.regLabel a{
+    text-decoration: underline;
+    color: #0e3e5b;
+}
+
+.regInput{
+    padding-left: 2vw;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-right: 4vw;
+}
+
+.regInput input{
+    margin-top: 2px;
+    width: 100%;
+}
+
+.regRadio{
+    width: 200px;
+}
+
+.regRadio input{
+    width: 10%;
+}
+
+.regTC input{
+    width: max-content;
+}
+
+#btnSubmit{
+    color: white;
+    background-color: #0e3e5b;
+    width: max-content;
+    font-size: 2.5vw;
+}
+
+/*footer*/
+footer {
+    background-color: #0e3e5b;
+    height: max-content;
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-top: 3vh;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px; 
+}
+
+/* Media screen rule below 800px */
+@media screen and (max-width: 800px){
+    /* content-home */
+    .btm-info {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .content, .slider-inner, .btm-info {
+        width: 100%;
+    }
+
+    .slider-inner img, .btm-info img {
+        max-width: 80%;
+        max-height: 80%;
+    }
+
+    .slider-inner {
+        text-align: center;
+    }
+
+    .prev-arrow, .next-arrow {
+        max-width: 5%;
+        max-height: 5%;
+    }
+
+    .testimonial {
+        width: 500px;
+        height: 250px;
+        padding: 0;
+    }
+
+    .btm-text {
+        padding: 0;
+        text-align: center;
+    }
+
+    .second-event, .slider-inner, .slider-inner img {
+        width: 512px;
+        height: 288px;
+    }
+
+
+    /* content-screenshot */
+    .gambar {
+        width: 100%;
+      }
+    .contenerss{
+        display: flex;
+        flex-direction: column;
+        padding-inline: 10vw;
+    }
+    .textss{
+        padding-inline: 10vw;
+    }
+
+
+    /* content-event */
+    .listevent {
+        display: block;
+        padding-inline: 5vw;
+    }
+    .event{
+        width: 80%;
+    }
+    .event img{
+        width: 100%;
+        height: 50%;
+    }
+
+
+    /* content-character */
+    .content-char{
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    /* content-playnow */
+    .regTitlebox p{
+        font-size: 7vh;
+        margin-bottom: 2vh;
+    }
+
+    .regInput{
+        font-size: 2.5vw;
+    }
+
+    .regRadio{
+        width: inherit;
+    }
+
+    .regTC{
+        margin-top: 1vh;
+    }
+
+    #cbAgree{
+        width: 10%;
+    }
+
+    #btnSubmit{
+        font-size: 4.5vw;
+    }
+
+}
