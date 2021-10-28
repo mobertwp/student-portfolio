@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="PSD_Project.View.Master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <style>
+        a.button {
+              font: 18px Times New Roman;
+              text-decoration: none;
+              background-color: #EEEEEE;
+              color: #000000;
+              padding: 2px 6px 2px 6px;
+              border-top: 1px solid #CCCCCC;
+              border-right: 1px solid #333333;
+              border-bottom: 1px solid #333333;
+              border-left: 1px solid #CCCCCC;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <header>
+        <h1>Welcome, 
+            <asp:Label ID="LblUsername" runat="server" Text=""></asp:Label>
+        </h1>
+    </header>
+    <form id="form1" runat="server">
+        <div>
+            <asp:Button ID="BtnHome" OnClick="BtnHome_Click" runat="server" Text="HOME" />
+            <asp:Button ID="BtnLogOut" OnClick="BtnLogOut_Click" runat="server" Text="LOG OUT" />
+        </div>
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
