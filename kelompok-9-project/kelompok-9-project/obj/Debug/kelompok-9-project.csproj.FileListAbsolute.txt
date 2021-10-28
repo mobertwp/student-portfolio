@@ -1,0 +1,189 @@
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\kelompok-9-project.dll.config
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\kelompok-9-project.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\kelompok-9-project.pdb
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\csc.exe
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\csc.exe.config
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\csc.rsp
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\csi.exe
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\csi.exe.config
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\csi.rsp
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.AppContext.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Console.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Net.Http.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\vbc.exe
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\vbc.exe.config
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\vbc.rsp
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\obj\Debug\kelompok-9-project.csprojAssemblyReference.cache
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\obj\Debug\kelompok-9-project.csproj.CoreCompileInputs.cache
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\obj\Debug\kelompok-9-project.csproj.CopyComplete
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\obj\Debug\kelompok-9-project.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\obj\Debug\kelompok-9-project.pdb
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\EntityFramework.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\EntityFramework.SqlServer.dll
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\EntityFramework.xml
+C:\Users\Romario\source\repos\kelompok-9-project\kelompok-9-project\bin\EntityFramework.SqlServer.xml
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\kelompok-9-project.dll.config
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\kelompok-9-project.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\kelompok-9-project.pdb
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\csc.exe
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\csc.exe.config
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\csc.rsp
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\csi.exe
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\csi.exe.config
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\csi.rsp
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.AppContext.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Console.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Net.Http.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\vbc.exe
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\vbc.exe.config
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\vbc.rsp
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\EntityFramework.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\EntityFramework.SqlServer.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\EntityFramework.xml
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\EntityFramework.SqlServer.xml
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\obj\Debug\kelompok-9-project.csprojAssemblyReference.cache
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\obj\Debug\kelompok-9-project.csproj.CoreCompileInputs.cache
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\obj\Debug\kelompok-9-project.csproj.CopyComplete
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\obj\Debug\kelompok-9-project.dll
+C:\Users\Mob\Documents\VS binus\PDD BG01\kelompok-9-project\kelompok-9-project\obj\Debug\kelompok-9-project.pdb
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\kelompok-9-project.dll.config
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\kelompok-9-project.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\kelompok-9-project.pdb
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\csc.exe
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\csc.exe.config
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\csc.rsp
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\csi.exe
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\csi.exe.config
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\csi.rsp
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.Managed.Core.targets
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.AppContext.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Collections.Immutable.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Console.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Globalization.Calendars.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.IO.Compression.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.IO.FileSystem.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Net.Http.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Net.Sockets.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Reflection.Metadata.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.ValueTuple.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Xml.XmlDocument.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Xml.XPath.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\vbc.exe
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\vbc.exe.config
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\vbc.rsp
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\VBCSCompiler.exe
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\roslyn\VBCSCompiler.exe.config
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\EntityFramework.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\EntityFramework.SqlServer.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\EntityFramework.xml
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\EntityFramework.SqlServer.xml
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\obj\Debug\kelompok-9-project.csprojAssemblyReference.cache
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\obj\Debug\kelompok-9-project.csproj.CoreCompileInputs.cache
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\obj\Debug\kelompok-9-project.csproj.CopyComplete
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\obj\Debug\kelompok-9-project.dll
+F:\.Michael kurniawan\kelompok-9-project\kelompok-9-project\obj\Debug\kelompok-9-project.pdb
