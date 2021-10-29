@@ -11,4 +11,15 @@ View transaction history for member
 Manage (insert, update, delete) flower listed on the shop by employee  
 Manage (insert, update, delete) member and employee registered by admin  
 Session and Cookies to save user data  
-Page redirects for route handling
+Page redirects for route handling  
+
+Sneak peek:  
+
+### Member Dashboard  
+![](images/memberdashboard.png)  
+
+### Employee Dashboard  
+![](images/employeedashboard.png)  
+
+### Admin Dashboard  
+![](images/admindashboard.png)  
