@@ -11,3 +11,11 @@ Staff Dashboard, manage student data
 Admin Dashboard, manage staff data
 
 Sneak peek:
+### Student Dashboard
+![](images/studentdashboard.png)
+
+### Staff Dashboard
+![](images/staffdashboard.png)
+
+### Admin Dashboard
+![](images/admindashboard.png)
