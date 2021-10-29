@@ -4,12 +4,12 @@ This project mainly teaches me about following UI design principles and make a u
 Languages used: HTML5, CSS, & JS  
 Graphic creation/editing: Photoshop  
 
-Features:
-Show events with image slider
-Show details of the event shown
-Show screenshots about the game
-Show character and its details
-Provide register page
+Features:  
+Show events with image slider  
+Show details of the event shown  
+Show screenshots about the game  
+Show character and its details  
+Provide register page  
 
 Sneak peek:
 ### Home Page
