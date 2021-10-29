@@ -3,3 +3,12 @@ It's a web-app purposely made as a flower shop with online transaction and also 
 It uses ASP.NET framework and follow a DDD software development philosophy.  
 Although it lacks some CSS styling, this project mostly teaches me about the mindset of DDD and guide me to follow a standard and appropriate pattern to software development. This mindset ultimately increases coordination between projects member, flexibility and maintainability of the program, and also improve communication between member.  
 Languages used: C#, SQL  
+
+Features:  
+Login/Register page  
+Flower orders for member  
+View transaction history for member  
+Manage (insert, update, delete) flower listed on the shop by employee  
+Manage (insert, update, delete) member and employee registered by admin  
+Session and Cookies to save user data  
+Page redirects for route handling
