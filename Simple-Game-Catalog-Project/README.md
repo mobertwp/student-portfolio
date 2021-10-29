@@ -13,10 +13,11 @@ Provide register page
 
 Sneak peek:
 ### Home Page
-
+![](images/homepage.png)
 
 ### Character Page
-
+![](images/characterpage.png)
 
 ### Register Page
+![](images/registerpage.png)
 
