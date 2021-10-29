@@ -4,13 +4,13 @@ It uses ASP.NET framework and follow a DDD software development philosophy.
 This project started as a trial project to enhance my understanding of ASP.NET framework and also the DDD development philosophy which the university course teaches me.  
 Languages used: C#, SQL, CSS
 
-Features:
-Login/Register User
-Student Dashboard, provide student information
-Staff Dashboard, manage student data
-Admin Dashboard, manage staff data
+Features:  
+Login/Register User  
+Student Dashboard, provide student information  
+Staff Dashboard, manage student data  
+Admin Dashboard, manage staff data  
 
-Sneak peek:
+Sneak peek:  
 ### Student Dashboard
 ![](images/studentdashboard.png)
 
